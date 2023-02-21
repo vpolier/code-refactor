@@ -5,12 +5,12 @@ This project refactors Horiseon's webpage to make the links function, CSS select
 
 
 ## Table of Content
-Installation
-Usage
-License
-Contributing
-Tests
-Questions
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing] (# Contributing)
+- [Tests] (# Tests)
+- [Questions] (# Questions)
 
 
 ## Installation
@@ -23,6 +23,12 @@ No install required
 This is not a functioning application. It is for test purposes only.
 Please view deployed Git Hub URL
 
+    ```md
+    ![alt text](assets/images/screen-shot-horison1.png)
+    ```
+ ```md
+    ![alt text](assets/images/screen-shot-horison2.png)
+    ```
 
 ## License
 
