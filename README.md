@@ -8,9 +8,8 @@ This project refactors Horiseon's webpage to make the links function, CSS select
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing] (#contributing)
-- [Tests] (#tests)
-- [Questions] (#questions)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
 
 ## Installation
@@ -18,7 +17,7 @@ This project refactors Horiseon's webpage to make the links function, CSS select
 No install required
     
 
-## Usage/Examples
+## Usage
 
 This is not a functioning application. It is for test purposes only.
 Please view deployed Git Hub URL
