@@ -23,12 +23,10 @@ No install required
 This is not a functioning application. It is for test purposes only.
 Please view deployed Git Hub URL
 
-    ```md
-    ![alt text](assets/images/screen-shot-horison1.png)
-    ```
- ```md
-    ![alt text](assets/images/screen-shot-horison2.png)
-    ```
+![alt text](assets/images/screen-shot-horiseon1.png)
+
+![alt text](assets/images/screen-shot-horiseon2.png)
+
 
 ## License
 
