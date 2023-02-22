@@ -8,9 +8,9 @@ This project refactors Horiseon's webpage to make the links function, CSS select
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing] (# Contributing)
-- [Tests] (# Tests)
-- [Questions] (# Questions)
+- [Contributing] (#contributing)
+- [Tests] (#tests)
+- [Questions] (#questions)
 
 
 ## Installation
