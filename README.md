@@ -1,5 +1,4 @@
 # Code-Refactor
-Github licence
 
 ## Description
 This project refactors Horiseon's webpage to make the links function, CSS selectors/properties are consolidated and sematic and the code optimized for search engines.
