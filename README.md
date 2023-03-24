@@ -19,7 +19,7 @@ No install required
 ## Usage
 
 This is not a functioning application. It is for test purposes only.
-Please view deployed Git Hub URL
+Please view deployed Git Hub URL https://vpolier.github.io/code-refactor/
 
 ![alt text](assets/images/screen-shot-horiseon1.png)
 
