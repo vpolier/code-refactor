@@ -1,9 +1,14 @@
 # Code-Refactor
+![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## Description
+
 This project refactors Horiseon's webpage to make the links function, CSS selectors/properties are consolidated and sematic and the code optimized for search engines.
 
+
 ## Table of Content
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
